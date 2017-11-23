@@ -17,6 +17,10 @@
 
 * [Cryptographic key length recommentdation](https://www.keylength.com/en/compare/)
 
+### GPG (Open PGP)
+
+* [OpenPGP Best Practices](https://riseup.net/en/gpg-best-practices)
+
 ### SSL
 
 * [DigiCert® SSL Installation Diagnostics Tool](https://www.digicert.com/help/)
