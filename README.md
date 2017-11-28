@@ -15,7 +15,7 @@
 
 ## Security
 
-[OWASP](https://www.owasp.org/)
+* [OWASP](https://www.owasp.org/)
 
 ### Cryptography
 
