@@ -26,7 +26,7 @@
 
 * [OpenPGP Best Practices](https://riseup.net/en/gpg-best-practices)
 
-#### Privacy
+### Privacy
 
 * [Spread Privacy](https://spreadprivacy.com/)
 * [Surveillance Self Defense](https://ssd.eff.org/)
