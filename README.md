@@ -12,6 +12,7 @@
 * [Aww App](https://awwapp.com/)
 * [JS-Sequence-Diagrams](https://bramp.github.io/js-sequence-diagrams/)
 * [Mscgen](http://www.mcternan.me.uk/mscgen/index.html)
+* [Mermaid](https://mermaidjs.github.io/)
 
 ## Infrastructure
 
