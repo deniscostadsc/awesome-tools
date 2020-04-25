@@ -36,6 +36,10 @@
 * [Spread Privacy](https://spreadprivacy.com/)
 * [Surveillance Self Defense](https://ssd.eff.org/)
 
+### Shared (pwned) logins
+
+* [Bugmenot](http://bugmenot.com/)
+
 #### SSL
 
 * [DigiCert® SSL Installation Diagnostics Tool](https://www.digicert.com/help/)
