@@ -5,6 +5,7 @@
 ### Temporary Email
 
 * [Air Mail](https://en.getairmail.com/)
+* [Tempail](https://tempail.com/en/)
 
 ## Draw/Diagram/Flowchart
 
