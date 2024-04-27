@@ -51,3 +51,4 @@
 
 ### Subtitles
 * [Subtitle Cat (automatic subtitle translator)](https://www.subtitlecat.com/)
+* [Open Subtitles](https://www.opensubtitles.org/)
