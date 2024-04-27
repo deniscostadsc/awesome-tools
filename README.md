@@ -15,10 +15,6 @@
 * [Mscgen](http://www.mcternan.me.uk/mscgen/index.html)
 * [Mermaid](https://mermaidjs.github.io/)
 
-## Infrastructure
-
-* [Katacoda](https://www.katacoda.com/)
-
 ## Security
 
 * [OWASP](https://www.owasp.org/)
@@ -28,7 +24,7 @@
 * [Cryptographic Storage Cheat Sheet](https://www.owasp.org/index.php/Cryptographic_Storage_Cheat_Sheet)
 * [Cryptographic key length recommentdation](https://www.keylength.com/en/compare/)
 
-#### GPG (Open PGP)
+### GPG (Open PGP)
 
 * [OpenPGP Best Practices](https://riseup.net/en/gpg-best-practices)
 
@@ -41,12 +37,17 @@
 
 * [Bugmenot](http://bugmenot.com/)
 
-#### SSL
+### SSL
 
 * [DigiCert® SSL Installation Diagnostics Tool](https://www.digicert.com/help/)
 * [SSL Checker](https://www.sslshopper.com/ssl-checker.html)
 
-## Time
+## Time/Data
 
 * [Doodle](http://doodle.com/)
 * [Time and date](https://www.timeanddate.com/)
+
+## Video
+
+### Subtitles
+* [Subtitle Cat (automatic subtitle translator)](https://www.subtitlecat.com/)
