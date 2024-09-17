@@ -15,6 +15,14 @@
 * [Mscgen](http://www.mcternan.me.uk/mscgen/index.html)
 * [Mermaid](https://mermaidjs.github.io/)
 
+## News
+
+### Paywall Bypassers
+
+* [12ft](https://12ft.io)
+* [Remove Paywall](https://www.removepaywall.com/)
+* [Bye Bye Paywall](https://byebyepaywall.com/en/)
+
 ## Security
 
 * [OWASP](https://www.owasp.org/)
