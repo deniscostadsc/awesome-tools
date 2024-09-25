@@ -7,13 +7,19 @@
 * [Air Mail](https://en.getairmail.com/)
 * [Tempail](https://tempail.com/en/)
 
-## Draw/Diagram/Flowchart
+## Image 
+
+### Diagram/Flowchart
 
 * [ASCII Floww](http://asciiflow.com/)
 * [Aww App](https://awwapp.com/)
 * [JS-Sequence-Diagrams](https://bramp.github.io/js-sequence-diagrams/)
 * [Mscgen](http://www.mcternan.me.uk/mscgen/index.html)
 * [Mermaid](https://mermaidjs.github.io/)
+
+### SVG
+
+* [Boxy SVG](https://boxy-svg.com/app)
 
 ## News
 
