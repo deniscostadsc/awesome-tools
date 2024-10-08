@@ -1,5 +1,11 @@
 # Awesome working tools
 
+## Documents
+
+### Document conversion
+
+* [PDF2Audio](https://huggingface.co/spaces/lamm-mit/PDF2Audio)
+
 ## Email
 
 ### Temporary Email
